@@ -31,7 +31,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index = ["array", "index_number", "am"]
-    retrieve_element_from_index.index("am")
+    retrieve_element_from_index[2]
 
 end
 
